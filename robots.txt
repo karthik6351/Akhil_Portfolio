@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://akhilgonugunta.vercel.app/sitemap.xml
